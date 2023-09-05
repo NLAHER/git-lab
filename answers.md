@@ -106,3 +106,7 @@ Answer 11)
 Answer 12)
 
     The browser changes were now reflected in my local copy.
+
+Answer 13)
+
+    .  ..  .git  .gitignore  README.md 
