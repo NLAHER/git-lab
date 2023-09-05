@@ -90,3 +90,19 @@ Answer 9)
 
 Answer 10)
 
+No, the browser changes were not made to my local copy.
+
+Answer 11)
+
+    To https://github.com/NLAHER/git-lab.git
+     ! [rejected]        main -> main (fetch first)
+    error: failed to push some refs to 'https://github.com/NLAHER/git-lab.git'
+    hint: Updates were rejected because the remote contains work that you do not
+    hint: have locally. This is usually caused by another repository pushing to
+    hint: the same ref. If you want to integrate the remote changes, use
+    hint: 'git pull' before pushing again.
+    hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Answer 12)
+
+The browser changes were now reflected in my local copy.
