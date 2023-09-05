@@ -90,7 +90,7 @@ Answer 9)
 
 Answer 10)
 
-No, the browser changes were not made to my local copy.
+    No, the browser changes were not made to my local copy.
 
 Answer 11)
 
@@ -105,4 +105,4 @@ Answer 11)
 
 Answer 12)
 
-The browser changes were now reflected in my local copy.
+    The browser changes were now reflected in my local copy.
